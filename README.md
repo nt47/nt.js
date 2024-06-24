@@ -5,7 +5,7 @@ nt.js is next jQ(ula) libs based on next.js and jQuery but without ex.js and eve
 # 实现
 更加自由的6览器实现，拜托所有舒服
 # 盈利
-区块链技术实现数据无限免费存储，估计能赚个小1亿吧
+区块链技术实现数据无限免费存储，估计能小赚个1亿吧
 # qq交流群
 100107777
 # toDoList
