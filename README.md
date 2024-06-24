@@ -1,5 +1,5 @@
 # nt.js
-nt.js is next jQ(ula) libs based on next.js and jQuery but without ex.js and every.js \
+nt.js is next jQ(ula) libs based on next.js and jQuery but without ex.js and every.js
 # 原理
 外挂注入式插件，逆向了谷歌浏览器API,实现定制化网站显示
 # 实现
@@ -8,10 +8,8 @@ nt.js is next jQ(ula) libs based on next.js and jQuery but without ex.js and eve
 区块链技术实现数据无限免费存储，估计能赚个小1亿吧
 # qq交流群
 100107777
-
-
-todolist:\
-1.Google.Net\
-2.lua support\
-3.panorama.dll support:)\
+# toDoList
+1.Google.Net
+2.lua support
+3.panorama.dll support:)
 
