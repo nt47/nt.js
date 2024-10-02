@@ -7,8 +7,8 @@ nt.js is next jQ(ula) libs based on next.js and jQuery but without ex.js and eve
 # 盈利  
 区块链技术实现数据无限免费存储，估计能小赚个1亿吧
 # Panorama & Vista
-1.:)tThank u, RNA exceptionFixing on executing 
-2.碎片球技术，有点像乔巴的药丸
+1.:)tThank u, RNA exceptionFixing on executing  
+2.碎片球技术，有点像乔巴的药丸  
 # qq交流群  
 100107777
 # toDoList  
